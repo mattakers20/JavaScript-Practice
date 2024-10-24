@@ -5,7 +5,7 @@ userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!')
 const userQuestion = 'Should I eat breakfast?';
 console.log(`${userQuestion}`);
 
-let randomNumber = Math.floor(Math.random() * 8); 
+const randomNumber = Math.floor(Math.random() * 8); 
 
 let eightBall = ''; 
 
